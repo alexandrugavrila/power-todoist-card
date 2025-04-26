@@ -1,0 +1,27 @@
+.git
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and local testing
+*.log
+*.tsbuildinfo
+.env
+.env.*
+
+# Dev tools
+.vscode/
+# dev/
+
+# OS-specific
+*.swp
+*.swo
+
+# Scripts output
+*.output.txt

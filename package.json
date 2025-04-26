@@ -1,0 +1,29 @@
+{
+  "name": "power-todoist-card",
+  "version": "1.0.0",
+  "description": "This is a **refactored and enhanced fork** of the original [PowerTodoist Card](https://github.com/pgorod/power-todoist-card) for Home Assistant Lovelace dashboards, tailored for **YAML-mode users**, **custom theming**, and **self-hosted environments**.",
+  "main": "powertodoist-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrugavrila/power-todoist-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrugavrila/power-todoist-card/issues"
+  },
+  "homepage": "https://github.com/alexandrugavrila/power-todoist-card#readme",
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/user-event": "^14.6.1",
+    "jsdom": "^26.0.0",
+    "vite": "^6.2.5",
+    "vitest": "^3.1.1"
+  }
+}
